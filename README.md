@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PkTheGameDev
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity, C# and learnt some basics of C++
-- 💞️ I’m looking to collaborate on Game Development projects
+- 👀 I’m interested in Game Development and product development
+- 🌱 I’m proficient with Unreal engine with C++ and unity with C#
+- 💞️ I’m looking to collaborate on projects and learn new skills
 - 📫 You can reach me through my mail. (will be uploaded soon)
 
 <!---
